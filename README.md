@@ -91,22 +91,22 @@
 - Latest Version【推荐】
 
 ```
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/reeceyng/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/FeiFei-SS/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
 - shadowsocks 动态IP白名单模式【Beta】
 
 ```
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/reeceyng/v2ray-agent/dev_ss/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/FeiFei-SS/v2ray-agent/dev_ss/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
 # 示例图
 
-<img src="https://raw.githubusercontent.com/reeceyng/v2ray-agent/master/fodder/install/install.jpg" width=700>
+<img src="https://raw.githubusercontent.com/FeiFei-SS/v2ray-agent/master/fodder/install/install.jpg" width=700>
 
 # 许可证
 
-[AGPL-3.0](https://github.com/reeceyng/v2ray-agent/blob/master/LICENSE)
+[AGPL-3.0](https://github.com/FeiFei-SS/v2ray-agent/blob/master/LICENSE)
 
 ## Stargazers over time
 
