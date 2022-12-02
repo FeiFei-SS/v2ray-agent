@@ -5431,7 +5431,7 @@ manageHysteria() {
 menu() {
 	cd "$HOME" || exit
 	echoContent red "\n=============================================================="
-	echoContent green "作者:Reece"
+	echoContent green "作者:FeiFei"
 	echoContent green "原作者:mack-a"
 	echoContent green "当前版本:v2.6.14"
 	echoContent green "Github:https://github.com/reeceyng/v2ray-agent"
